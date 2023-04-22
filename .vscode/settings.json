@@ -1,0 +1,5 @@
+{
+  "rust-analyzer.linkedProjects": [
+    "./chatper2/Cargo.toml"
+  ]
+}

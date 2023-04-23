@@ -7,5 +7,4 @@ edition = "2021"
 
 [dependencies]
 num-bigint = "0.4.3"
-rand = "0.8.4"
-
+rand = "0.8.5"
